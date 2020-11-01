@@ -1,2 +1,6 @@
 # benchmark-oracle
-Benchmark Oracle
+Benchmark Decentralized Market Data Oracle
+
+TODO
+- Decentralized Governance structure
+- Discover & Import Market data 
