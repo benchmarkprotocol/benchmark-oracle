@@ -1,2 +1,2 @@
 # benchmark-oracle
-Benchmark Decentralized Market Data Oracle
+Benchmark Decentralized Multi-Sig Market Data Oracle
